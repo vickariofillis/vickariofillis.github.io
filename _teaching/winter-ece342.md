@@ -3,7 +3,7 @@ title: "Course ECE 342: Computer Hardware"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/winter-ece342
-venue: "University of Toronto, Department of Electrical & Computer Engineering"
+venue: "University of Toronto, Department of Electrical and Computer Engineering"
 date: 2019-01-01
 location: "Toronto, Canada"
 ---
