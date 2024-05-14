@@ -8,13 +8,7 @@ date: 2022-09-01
 location: "Toronto, Canada"
 ---
 
+Teaching Duties
+======
+
 Course Development. Updating labs (handouts, code, automarker) to RISC-V assembly. Providing educational support to students. Supervising and marking labs. Creating exam questions and marking exams.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

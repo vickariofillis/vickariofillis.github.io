@@ -8,13 +8,7 @@ date: 2023-01-01
 location: "Toronto, Canada"
 ---
 
+Teaching Duties
+======
+
 Providing educational support to students. Creating and marking assignments. Marking projects.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
