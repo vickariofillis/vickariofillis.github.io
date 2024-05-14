@@ -21,30 +21,30 @@ repository               : "vickariofillis/vickariofillis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "vic.png"
+  name             : "Victor Kariofillis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Candidate at the University of Toronto"
+  location         : "Toronto, ON, Canada"
+  employer         : "University of Toronto"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "vickariofillis at gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.ca/citations?user=lpCSQg4AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-1892-7802"
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Victor-Kariofillis" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "vickariofillis"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : "4714146/vic" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
