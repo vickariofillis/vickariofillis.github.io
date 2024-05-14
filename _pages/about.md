@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD cadidate at the [University of Toronto](https://www.utoronto.ca/), in the [Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/). I am advised by Prof. [Natalie Enright Jerger](https://www.eecg.toronto.edu/~enright/).
+I am a PhD cadidate at the [University of Toronto](https://www.utoronto.ca/), in the [Department of Electrical & Computer Engineering](https://www.ece.utoronto.ca/). I am advised by Prof. [Natalie Enright Jerger](https://www.eecg.toronto.edu/~enright/).
 
 My primary research focus is in the area of Computer Architecture, with a strong emphasis on innovative techniques for improving system performance, energy efficiency, and adaptability.
 While I am rooted in this field, I remain open to interdisciplinary collaborations and emerging technologies that could shape the future of computing.

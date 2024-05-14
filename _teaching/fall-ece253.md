@@ -1,0 +1,20 @@
+---
+title: "Course ECE 253: Digital and Computer Systems"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/fall-ece253
+venue: "University of Toronto, Department of Electrical & Computer Engineering"
+date: 2022-09-01
+location: "Toronto, Canada"
+---
+
+Course Development. Updating labs (handouts, code, automarker) to RISC-V assembly. Providing educational support to students. Supervising and marking labs. Creating exam questions and marking exams.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
