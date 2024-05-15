@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Toronto, Canada"
 ---
 
-Duties include: Providing educational support to students. Creating and marking assignments. Marking projects.
+TA duties include: Providing educational support to students. Creating and marking assignments. Marking projects.
