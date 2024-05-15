@@ -66,8 +66,8 @@
       <p>{{ post.authors }} </p>
     {% elsif post.paperurl %}
       <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">PDF</a></p>
-    {% elsif post.paperurl %}
-      <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">Presentation</a></p>
+    {% elsif post.presentationurl %}
+      <p class="wordwrap">Download <a href=" {{ post.presentationurl }} ">Presentation</a></p>
     {% endif %}
 
   </article>
