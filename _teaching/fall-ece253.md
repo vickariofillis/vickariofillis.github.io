@@ -1,9 +1,9 @@
 ---
-title: "Course ECE 253: Digital and Computer Systems"
+title: "ECE 253: Digital and Computer Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fall-ece253
-venue: "University of Toronto, Department of Electrical & Computer Engineering"
+venue: "University of Toronto, Department of Electrical and Computer Engineering"
 date: 2022-09-01
 location: "Toronto, Canada"
 ---

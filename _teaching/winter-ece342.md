@@ -1,5 +1,5 @@
 ---
-title: "Course ECE 342: Computer Hardware"
+title: "ECE 342: Computer Hardware"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/winter-ece342

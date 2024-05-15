@@ -1,9 +1,9 @@
 ---
-title: "Course ECE 243: Computer Organization"
+title: "ECE 243: Computer Organization"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/winter-ece243
-venue: "University of Toronto, Department of Electrical & Computer Engineering"
+venue: "University of Toronto, Department of Electrical and Computer Engineering"
 date: 2021-01-01
 location: "Toronto, Canada"
 ---
