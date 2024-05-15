@@ -58,12 +58,16 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% endif %}
 
-    {% if post.authors and post.paperurl %}
+    {% if post.authors and post.paperurl and page.presentationurl %}
+      <p>{{ post.authors }} <a href="{{ post.paperurl }}">PDF</a> <a href="{{ post.presentationurl }}">Presentation</a></p>
+    {% elsif post.authors and post.paperurl %}
       <p>{{ post.authors }} <a href="{{ post.paperurl }}">PDF</a></p>
     {% elsif post.authors %}
       <p>{{ post.authors }} </p>
     {% elsif post.paperurl %}
       <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">PDF</a></p>
+    {% elsif post.paperurl %}
+      <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">Presentation</a></p>
     {% endif %}
 
   </article>
