@@ -3,12 +3,12 @@ title: "ECE 1718: Special Topics in Computer Hardware: Socially Responsible Comp
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/winter-ece1718
-venue: "University of Toronto, Department of Electrical and Computer Engineering"
+venue: "University of Toronto, Department of Electrical & Computer Engineering"
 date: 2023-01-01
 location: "Toronto, Canada"
 ---
 
-Teaching Duties
+TA Duties
 ======
 
 Providing educational support to students. Creating and marking assignments. Marking projects.
