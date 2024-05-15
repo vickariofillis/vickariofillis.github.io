@@ -8,7 +8,4 @@ date: 2019-01-01
 location: "Toronto, Canada"
 ---
 
-TA Duties
-======
-
-Providing educational support to students. Supervising and marking labs. Creating exam questions and marking exams.
+Duties include: Providing educational support to students. Supervising and marking labs. Creating exam questions and marking exams.
