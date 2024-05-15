@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](ttp://vickariofillis.github.io/files/CV.pdf)
+
 Education
 ======
 * PhD in Computer Engineering, University of Toronto, 2025 (expected)
@@ -32,7 +34,7 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-Skills
+Technical Skills
 ======
 * Programming Languages
   * C++
