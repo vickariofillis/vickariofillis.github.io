@@ -27,7 +27,8 @@ author:
   bio              : "PhD Candidate at the University of Toronto"
   location         : "Toronto, ON, Canada"
   employer         : "University of Toronto"
-  uri              : "https://www.utoronto.ca/" # URL
+  employeruri      : "https://www.utoronto.ca/"
+  uri              : # URL
   email            : "vickariofillis@gmail.com" 
 
   # Academic websites
